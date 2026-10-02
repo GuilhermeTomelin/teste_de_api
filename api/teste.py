@@ -16,9 +16,9 @@ from pprint import pprint #Biblioteca para imprimir os dados de forma legível
 
 
 #VAMOS PRECISAR DA APIKEY -> UMA CREDENCIAL
-API_Key = "" 
+API_Key = "c8bc6b8bf7ee4d978e5232957262909" 
 
-API_link = ""
+API_link = "http://api.weatherapi.com/v1"
 
 parametros ={
     "key":API_Key,
